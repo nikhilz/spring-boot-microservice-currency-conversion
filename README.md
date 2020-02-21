@@ -3,6 +3,8 @@
  
  Forex-service : https://github.com/nikhilz/spring-boot-microservice-forex-service
  
+ Eureka Naming Server : https://github.com/nikhilz/spring-boot-microservice-eureka-naming-server
+ 
  Overview:
  
 * Currency Conversion Service (CCS) can convert a bucket of currencies into another currency. It uses the Forex Service to get current currency exchange values. CCS is the Service Consumer. (Use of Feign Load Balancer) 
